@@ -24,4 +24,3 @@ Your client has provided you with almost three years of order information for ea
 - "emailer" - 1 if there was an email promotion for the meal, 0 otherwise
 - "featured" - 1 if the website featured the meal, 0 otherwise
 - "orders" - number of orders for that week for that meal id
-
